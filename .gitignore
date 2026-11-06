@@ -18,6 +18,7 @@ mcp-registry-snapshot/
 research/
 plans/
 dist/
+/agents/
 
 # Frontend (frontend/): commit source, ignore deps and build output.
 # frontend/apps/web/dist/.gitkeep is kept so //go:embed all:dist always compiles.
